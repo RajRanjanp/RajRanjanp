@@ -1,7 +1,20 @@
-- 👋 Hi, I’m @RajRanjanp
-- 👀 I’m interested in ...Machine Learning
-- 🌱 I’m currently learning ...Linear Algebra
-<!---
-RajRanjanp/RajRanjanp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# Hi there! 👋
+
+I'm  @RajRanjanp, a passionate machine learning enthusiast.
+
+🌱 I'm currently exploring various machine learning algorithms and techniques.
+
+👨‍💻 I enjoy working on projects related to natural language processing (NLP) .
+
+🚀 Always eager to learn and collaborate on exciting ML projects.
+
+## 🔧 Technologies & Tools
+
+- Python | TensorFlow | PyTorch | Scikit-Learn
+- Jupyter Notebooks | Pandas | NumPy
+
+Feel free to explore my repositories, and let's connect if you share a passion for machine learning!
+
+Happy coding! 🚀
+
